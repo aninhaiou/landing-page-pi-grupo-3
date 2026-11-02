@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <title>Ícone de nuvem e circuito</title>
+  <desc>Logo vetorial branca sobre fundo azul, com contorno circular, nuvem e trilhas digitais arredondadas.</desc>
+  <rect width="1200" height="1200" fill="#07358F"/>
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Anel externo -->
+    <circle cx="600" cy="600" r="520" stroke-width="22"/>
+    <!-- Arco interno inferior esquerdo -->
+    <path d="M126 602 A474 474 0 0 0 594 1050" stroke-width="22"/>
+    <!-- Nuvem -->
+    <path d="M354 722
+             C282 718 220 666 204 595
+             C186 514 232 430 309 401
+             C345 387 383 389 416 404
+             C435 326 503 271 581 271
+             C644 271 696 304 721 354
+             C760 309 818 282 879 286
+             C970 292 1036 365 1040 456
+             C1044 552 978 635 883 651
+             C868 654 851 656 834 656" stroke-width="24"/>
+    <!-- Separaciones/acentos dentro de la nube -->
+    <path d="M238 557 C241 499 282 456 339 445" stroke-width="22"/>
+    <path d="M848 326 C920 332 974 388 979 462" stroke-width="22"/>
+    <!-- Pixels centrais -->
+  </g>
+  <g fill="#FFFFFF">
+    <rect x="586" y="559" width="38" height="38" rx="8"/>
+    <rect x="531" y="611" width="38" height="38" rx="8"/>
+    <rect x="586" y="611" width="38" height="38" rx="8"/>
+    <rect x="641" y="611" width="38" height="38" rx="8"/>
+    <rect x="476" y="663" width="38" height="38" rx="8"/>
+    <rect x="531" y="663" width="38" height="38" rx="8"/>
+    <rect x="586" y="663" width="38" height="38" rx="8"/>
+    <rect x="641" y="663" width="38" height="38" rx="8"/>
+    <rect x="696" y="663" width="38" height="38" rx="8"/>
+    <rect x="476" y="716" width="38" height="38" rx="8"/>
+    <rect x="531" y="716" width="38" height="38" rx="8"/>
+    <rect x="586" y="716" width="38" height="38" rx="8"/>
+    <rect x="641" y="716" width="38" height="38" rx="8"/>
+    <rect x="696" y="716" width="38" height="38" rx="8"/>
+    <rect x="531" y="769" width="38" height="38" rx="8"/>
+    <rect x="586" y="769" width="38" height="38" rx="8"/>
+    <rect x="641" y="769" width="38" height="38" rx="8"/>
+  </g>
+  <g fill="none" stroke="#FFFFFF" stroke-width="23" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Circuitos com cantos arredondados -->
+    <path d="M495 758 V778 C495 811 474 831 441 831 H404"/>
+    <path d="M550 808 V842 C550 876 529 895 495 895 H457"/>
+    <path d="M605 808 V906"/>
+    <path d="M660 808 V842 C660 876 681 895 715 895 H753"/>
+    <path d="M715 758 V778 C715 811 736 831 769 831 H806"/>
+  </g>
+  <g fill="#FFFFFF">
+    <circle cx="390" cy="831" r="25"/>
+    <circle cx="443" cy="895" r="25"/>
+    <circle cx="605" cy="930" r="25"/>
+    <circle cx="768" cy="895" r="25"/>
+    <circle cx="822" cy="831" r="25"/>
+  </g>
+</svg>
