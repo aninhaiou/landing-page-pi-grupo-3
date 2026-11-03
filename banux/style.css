@@ -97,16 +97,16 @@ header{
 
 .logo img{
 
-    width:130px;
+    width:80px;
     height:auto;
 
 }
 
 .logo-texto span{
 
-    font-size:14px;
+    font-size:18px;
 
-    color:var(--cinza);
+    color:var(--marrom);
 
 }
 nav ul{
